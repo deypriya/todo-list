@@ -5,4 +5,4 @@
 <br/>
 <br/>
 
-## Deployment Link- [here](https://todolist-ashish293.netlify.app/)
+## Deployment Link- [here](https://todo-list-priya-dey.netlify.app/)
